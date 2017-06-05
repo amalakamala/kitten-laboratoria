@@ -1,14 +1,15 @@
-@media (min-width: 951px) and (max-width: 1280px){
+@media (min-width: 1051px) and (max-width: 1280px){
 	body{
 		background-image: url(../img/Copia-de-Landscape.jpg);
 		background-size: 100%;
 		overflow: auto;
+		background-repeat: no-repeat;
 
 	}
 
 }
 
-@media (min-width: 551px) and (max-width: 950px){
+@media (min-width: 551px) and (max-width: 1050px){
 	body{
 		background-image: url(../img/Copia-de-dawn.png);
 		background-size: cover;
