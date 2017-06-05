@@ -1,0 +1,27 @@
+@media (min-width: 951px) and (max-width: 1280px){
+	body{
+		background-image: url(../img/Copia-de-Landscape.jpg);
+		background-size: 100%;
+		overflow: auto;
+
+	}
+
+}
+
+@media (min-width: 551px) and (max-width: 950px){
+	body{
+		background-image: url(../img/Copia-de-dawn.png);
+		background-size: cover;
+		height: 100vh;	
+	}
+
+}
+
+@media (min-width: 1px) and (max-width: 550px){
+	body{
+		background-image: url(../img/Copia-de-maxresdefault.jpg);
+		background-size: cover;
+		height: 100vh;
+	}
+
+}
